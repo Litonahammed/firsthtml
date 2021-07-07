@@ -47,23 +47,96 @@ h2{
 
 
 
+body{
 
-.chines{
-
-width:1200px;
-margin: 10px;
-box-sizing: border-box;
-box-shadow:1px 2x 4px black;
+    margin: 10px;
+    padding: 10px;
 }
-.img-style{
-    width:40%;
-}   
-.chines-food{
 
-    padding:5px;
-    
+.main{
+     display:flex;
+     .top{
+         text-emphasis-position: margin-top: ;;;
+     }
 }
-.chines-food .chines-soup{
-    font-size: 10px;
+.cards{ 
+ 
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 200px;
+    background-color: rgb(202, 223, 231);
+
+      border-radius:10px;
+      box-shadow: 2px 2px 2px 2px black;
+}  
+
+.image img{
+    width:200px;
+
+
+
+}
+.title{
+
     text-align: center;
+    margin-top: 10px;
 }
+.des{ text-align: center;
+}
+
+
+
+
+.cards1{ 
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 200px;
+    background-color: rgb(202, 223, 231);
+
+      border-radius:10px;
+      box-shadow: 2px 2px 2px 2px black;
+}  
+
+.image1 img{
+    width:200px;
+
+
+
+}
+.title1{
+
+    text-align: center;
+    margin-top: 10px;
+}
+.des1{ text-align: center;
+}
+
+
+
+.cards2{ 
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 200px;
+    background-color: rgb(202, 223, 231);
+
+      border-radius:10px;
+      box-shadow: 2px 2px 2px 2px black;
+}  
+
+.image2 img{
+    width:200px;
+    
+
+
+
+}
+.title2{
+
+    text-align: center;
+    margin-top: 5px;
+}
+.des2{ text-align: center;
+}
+footer{ background:mediumseagreen;
+background-position: 300px;}
+.orange{ color: tomato;}
