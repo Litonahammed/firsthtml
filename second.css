@@ -7,6 +7,7 @@ body{
 section{
     height: 500px;
     padding-bottom: 150px;
+    margin-bottom: 100px;
 }
 .half-width{
     width:40%;
@@ -33,4 +34,36 @@ h1 span{
 }
 p{
     color: dimgray;
+}
+}
+.burger{
+    background-image: url(images/Shape/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+h2{
+    font-size: 40px;
+}
+
+
+
+
+.chines{
+
+width:1200px;
+margin: 10px;
+box-sizing: border-box;
+box-shadow:1px 2x 4px black;
+}
+.img-style{
+    width:40%;
+}   
+.chines-food{
+
+    padding:5px;
+    
+}
+.chines-food .chines-soup{
+    font-size: 10px;
+    text-align: center;
 }
